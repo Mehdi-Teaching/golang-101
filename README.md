@@ -22,3 +22,4 @@ Introduction to golang language
    2. [Make Array](4-array/2-make-array)
    3. [Append Func](4-array/3-append)
    4. [Slice](4-array/4-slice)
+   5. [Len Function](4-array/5-len)
