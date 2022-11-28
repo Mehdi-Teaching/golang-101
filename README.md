@@ -17,3 +17,8 @@ Introduction to golang language
 3. [If Else](3-if-else)
    1. [if else](3-if-else/1-if-else)
    2. [else if](3-if-else/2-else-if)
+4. [Array](4-array)
+   1. [Simple Array](4-array/1-simple)
+   2. [Make Array](4-array/2-make-array)
+   3. [Append Func](4-array/3-append)
+   4. [Slice](4-array/4-slice)
