@@ -13,7 +13,7 @@ Introduction to golang language
    2. [Different Types](2-variable-type/2-different-types)
    3. [Constants](2-variable-type/3-constant)
    4. [Any Type](2-variable-type/4-any) 
-   5[Research](2-variable-type/README.md)
+   5. [Research](2-variable-type/README.md)
 3. [If Else](3-if-else)
    1. [if else](3-if-else/1-if-else)
    2. [else if](3-if-else/2-else-if)
