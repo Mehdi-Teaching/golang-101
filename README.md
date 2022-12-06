@@ -38,6 +38,7 @@ Introduction to golang language
    3. [Function as Argument](7-function/3-function-as-arg)
    4. [Variadic Function](7-function/4-variadic-function)
    5. [Recursion](7-function/5-recursion)
+   6. [Research](7-function/README.md)
 8. [Map](8-map)
 9. [Struct](9-struct)
    1. [Struct](9-struct/1-simple)
