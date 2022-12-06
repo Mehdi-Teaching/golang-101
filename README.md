@@ -45,3 +45,4 @@ Introduction to golang language
    2. [Method](9-struct/2-method)
    3. [Complex Struct](9-struct/3-complex)
    4. [Embedded Struct](9-struct/4-embedded)
+10. [Example](https://github.com/Mehdi-Teaching/golang-example-basics)
