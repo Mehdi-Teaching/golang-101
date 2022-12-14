@@ -63,5 +63,10 @@ Introduction to golang language
 14. [Error](13-error)
     1. [Error](13-error/1-error)
     2. [Panic](13-error/2-panic)
-15. [Custom Type]
-16. 
+15. [Custom Type](14-custom-type)
+16. [Packages](15-packages)
+    1. [Strings](15-packages/1-strings)
+    2. [Time](15-packages/2-time)
+    3. [Random](15-packages/3-rand)
+    4. [Json](15-packages/4-json)
+    5. [Log](15-packages/5-log)
