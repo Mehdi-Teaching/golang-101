@@ -22,6 +22,9 @@ func main() {
 
 	x := Male
 
+	y := string(x)
+
 	fmt.Println(x)
+	fmt.Println(y)
 
 }
